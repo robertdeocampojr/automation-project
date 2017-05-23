@@ -1,0 +1,5 @@
+Tag,USERNAME,PASSWORD,MESSAGE
+valid,robertdeocampojr@gmail.com,test1234,Robert de Ocampo
+invalidemail,invalid@gmail.com,test1234,Authentication failed.
+incorrectpassword,robertdeocampojr@gmail.com,123456,Authentication failed.
+blank,,,An email address required.

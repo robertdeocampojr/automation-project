@@ -1,0 +1,5 @@
+FieldName,FieldLocator
+WEB_LOGIN_LINK,link=Sign in
+WEB_EMAIL_FIELD,id=email
+WEB_PASSWORD_FIELD,id=passwd
+WEB_LOGIN_BUTTON,id=SubmitLogin
